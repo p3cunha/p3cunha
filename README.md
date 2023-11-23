@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 Contact: pcls_@hotmail.com
 - :desktop_computer: Current projects:
 
-:point_right: https://main.deiwqrj6tlhw5.amplifyapp.com/
+<!-- :point_right: https://main.deiwqrj6tlhw5.amplifyapp.com/ -->
 
 
 <!-- ![alt text](https://financeone.com.br/wp-content/uploads/2018/10/LinkedIn.png) -->
